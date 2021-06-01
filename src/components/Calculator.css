@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.Calculator {
+    width: 350px;
+    height: 500px;
+    position: relative;
+    margin: 25px;
+}
+
+.btnColor {
+    background-color: #2980b9;
+}
